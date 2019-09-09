@@ -1,0 +1,3 @@
+First plot <- Randomness of the data given
+Second plot <- Best numer of K using Silhouette distances 
+Third plot <- Cluster plot (factoextra package used)
