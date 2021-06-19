@@ -1,1 +1,6 @@
-K-Means based Cluster algorithm where I have clustered the data based on (Class distribution: 357 benign, 212 malignant) in the best possible k
+## Breast cancer analysis - Custering technique
+
+- K-Means based Cluster technique.
+- Cluster data based on (Class distribution: 357 benign, 212 malignant) in the best possible k.
+- Plots and visuals for better analysis.
+- Kaggle open project.
